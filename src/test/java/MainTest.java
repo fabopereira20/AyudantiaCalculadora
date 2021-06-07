@@ -4,7 +4,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
-    /*private static Main vista;
+    /*static Main vista;
+
     @BeforeAll
     static void beforeAll() {
         vista = new Main();
